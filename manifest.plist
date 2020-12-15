@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jagain.HaoJiHui.mall9</string>
+				<string>com.jagain.HaoJiHui.mall</string>
 				<key>bundle-version</key>
 				<string>1.4.2</string>
 				<key>kind</key>
